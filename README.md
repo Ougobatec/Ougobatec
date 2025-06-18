@@ -1,18 +1,29 @@
 # Bonjour, je suis Ougobatec 👋
 
-Bienvenue sur mon profil GitHub! Je suis un développeur passionné par la création de solutions innovantes et efficaces. Voici un aperçu de mes compétences et projets.
+Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par la création de solutions innovantes et efficaces. Voici un aperçu de mes compétences et projets.
 
-## 🔧 Compétences
-
-- **Langages de programmation:** Python, JavaScript, Java, C, C#, C++
-- **Frameworks & Bibliothèques:** React, Node.js, Vue.js, Dotnet
-- **Bases de données:** MySQL, PostgreSQL, MongoDB
-- **Outils & Plateformes:** Webflow, Framer, Git
 
 ## 📂 Projets en vedette
 
-### [Advent of code](https://github.com/Ougobatec/AdventOfCode)
-Ce projet contient mes solutions aux défis de l'Advent of Code, le tout en Python. Chaque année, l'Advent of Code propose des défis quotidiens croissants en complexité, et ce dépôt regroupe toutes mes solutions au fil des ans.
+> ### [Advent of code](https://github.com/Ougobatec/AdventOfCode)
+> Ce projet regroupe mes solutions aux défis de l'[Advent of Code](https://adventofcode.com/), écrites en Python. Chaque année, l'Advent of Code propose des énigmes quotidiennes durant le calendrier de l'Avent, avec une difficulté croissante. Ce dépôt centralise l'ensemble de mes solutions au fil des années.
+
+
+## 🔧 Compétences
+
+- **Langages front-end :** HTML, CSS, JavaScript (JS), TypeScript (TS)
+- **Langages back-end & généralistes :** Python, PHP, C, C++, C#
+- **Langages embarqués / microcontrôleurs :** Arduino
+- **Frameworks front-end :** React, Next.js
+- **Frameworks back-end :** Node.js, .NET / Dotnet
+- **Systèmes de gestion de base de données (SGBD) :** MySQL, PostgreSQL, MongoDB
+- **Conteneurisation & API :** Docker, Postman
+- **Contrôle de version & Collaboration :** Git, GitHub
+- **Modélisation & Design 3D :** Figma, Fusion360
+- **Outils no-code / low-code & design web :** Webflow, Framer
+- **Environnements de développement :** Visual Studio, VS Code
+- **Suite bureautique :** Microsoft Office
+
 
 ## 📊 Statistiques GitHub
 
