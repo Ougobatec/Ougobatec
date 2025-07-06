@@ -27,8 +27,8 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par la cré
 
 ## 📊 Statistiques GitHub
 
-![Ougobatec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ougobatec&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ougobatec&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Ougobatec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ougobatec&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ougobatec&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 N'hésitez pas à parcourir mes dépôts et à me contacter si vous avez des questions ou des opportunités intéressantes.
 
